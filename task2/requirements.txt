@@ -1,0 +1,8 @@
+annotated-types==0.7.0
+async-timeout==4.0.3
+asyncpg==0.29.0
+pydantic==2.8.2
+pydantic-settings==2.4.0
+pydantic_core==2.20.1
+python-dotenv==1.0.1
+typing_extensions==4.12.2
